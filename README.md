@@ -36,7 +36,7 @@ I'm a curious and driven tech enthusiast with a deep interest in building scalab
 
 🤖 **OpenAI Chatbot**  
 *Built a conversational assistant using Python and OpenAI APIs.*  
-[GitHub Repo](#)
+[GitHub Repo](#https://github.com/anuchoudhary08/groq-chatbot)
 
 ---
 
