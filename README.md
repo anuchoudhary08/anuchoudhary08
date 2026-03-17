@@ -28,7 +28,7 @@ I'm a curious and driven tech enthusiast with a deep interest in building scalab
 
 🔧 **ETL Pipeline with Airflow**  
 *Automated data ingestion and transformation using Apache Airflow and MySQL.*  
-[GitHub Repo](#)
+[GitHub Repo](https://github.com/anuchoudhary08/airflow-data-pipeline)
 
 📊 **SQL Query Optimizer**  
 *Explored indexing, joins, and query plans to improve performance.*  
